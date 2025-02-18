@@ -1,0 +1,20 @@
+.form-select {
+    color: #5E6165;
+}
+
+.form-select option {
+    background-color: rgb(110, 109, 109);
+    color: white;
+}
+
+.btn {
+    border-color: lightgray;
+}
+
+.btn:focus {
+    border-color: #8FB6FC !important;
+}
+
+#resultsError {
+    color: red;
+}
